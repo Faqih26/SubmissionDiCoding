@@ -2,6 +2,7 @@
 
 
 ## Preview
+https://dashboard-bikepy-e8eq637vqdqztevc2wm8ko.streamlit.app/
 ![Capture231](https://github.com/Faqih26/Dicoding-Submission-Bike-Sharing/assets/74944172/68bce74d-c381-494d-8d19-8026665810e6)
 
 
