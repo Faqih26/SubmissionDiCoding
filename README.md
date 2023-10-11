@@ -23,8 +23,11 @@ Ikuti langkah berikut ini untuk menjalankan proyek ini:
 
 
 3. Install setiap kebutuhan yaitu streamlit,pandas,numpy,seaborn dll
+   ```
+   pip install -r requirements.txt
+   ```
 
-4. Run streamlit app
+5. Run streamlit app
    ```
    streamlit run Dashboard-Bike.py
    ```
