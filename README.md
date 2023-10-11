@@ -11,7 +11,7 @@ Ikuti langkah berikut ini untuk menjalankan proyek ini:
 
 1. Duplikat atau Download repository ini 
    ```
-   git clone https://github.com/Faqih26/Dicoding-Submission-Bike-Sharing.git
+   git clone https://github.com/Faqih26/SubmissionDiCoding.git
    ```
 
 2. Masuk kedalam folder melalui cmd atau Visual Code
