@@ -33,4 +33,3 @@ Ikuti langkah berikut ini untuk menjalankan proyek ini:
 
 5. Untuk menghentikannya ketik `ctrl + c`.
 
-# SubmissionDiCoding
